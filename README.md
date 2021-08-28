@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# App built by Joseph Disraeli, but feel free to use it
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
